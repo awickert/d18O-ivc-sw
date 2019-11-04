@@ -155,6 +155,9 @@ class meltwaterCore(object):
         
     T = 14.9 - 4.8 (d18O_uncorrected - d18O_corrected)
     # for later -- see p. 1172 of Taylor et al. (2015)
+
+    d18O_corrected is given with respect to the same standard as 
+    d18O_uncorrected
     """
     # !!!!!!!!!!!! I DON'T INCLUDE ERROR ESTIMATES HERE!!!!!
     if self.foram_species[:8] == 'G. ruber':
