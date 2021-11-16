@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5704598.svg)](https://doi.org/10.5281/zenodo.5704598)
+
 # d18O-ivc-sw
 Compute oxygen-isotope chronologies for seawater from foraminifera in sediment cores: ice-volume and temperature corrected
 
