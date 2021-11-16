@@ -4,7 +4,7 @@ authors:
   - family-names: Wickert
     given-names: "Andrew D."
     orcid: https://orcid.org/0000-0002-9545-3365
-title: d18O-ivc-sw: Computing ice-volume-corrected seawater d18O values from sediment-core data
+title: "d18O-ivc-sw: Computing ice-volume-corrected seawater d18O values from sediment-core data"
 version: v1.0.0
 doi: 10.5281/zenodo.5704598
 date-released: 2021-11-16
