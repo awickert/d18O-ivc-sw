@@ -7,5 +7,5 @@ authors:
 title: "d18O-ivc-sw: Computing ice-volume-corrected seawater d18O values from sediment-core data"
 version: v1.0.0
 doi: 10.5281/zenodo.5704598
-date-released: 2021-11-16
+date-released: 2019-11-04
 url: "https://github.com/awickert/d18O-ivc-sw/"
