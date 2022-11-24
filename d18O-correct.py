@@ -54,7 +54,8 @@ class meltwaterCore(object):
         with T in degrees C, and the error the original from Anand et al. (2003)
 
     G. RUBER white 350-500 um:
-    Following Anand et al. (2003)
+    From Dekens et al. (2002)
+    Also incorporated by Anand et al. (2003)
     with error bars from Khider et al. (2015)
     but not using any of their data on correlations with
     salinity and dissolution
